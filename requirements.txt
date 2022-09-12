@@ -9,7 +9,7 @@ x_transformers==0.15.0
 torch>=1.7.0
 imagesize>=1.2.0
 transformers>=4.2.2
-tokenizers==0.9.4
+tokenizers==0.11.1
 numpy>=1.19.5
 Pillow>=8.1.0
 PyYAML>=5.4.1
@@ -18,6 +18,8 @@ albumentations>=0.5.2
 pandas>=1.0.0
 timm
 python-Levenshtein>=0.12.2
+scikit-learn
+wandb
 
 # GUI
 PyQt5
